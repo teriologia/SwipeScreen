@@ -1,7 +1,7 @@
 ## SwipeScreen
 Swipe up and down for change screen
 
-##Instalation
+## Instalation
 
 1. run `yarn` or `npm install` for packages
 
